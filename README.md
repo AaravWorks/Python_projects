@@ -1,4 +1,4 @@
-                                                                                    Python projects by AaravWorks 🐍
+                                                                                                                                                                                     Python projects by AaravWorks 🐍
 
 This repository contains all my 
 Python learning projects.
