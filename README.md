@@ -1,2 +1,6 @@
-# Python_projects
-Python projects by AaravWorks - Calculator , Quiz App , Turtle Animation  and more I unload
+# Python_projects                Python projects by AaravWorks 🐍
+
+This repository contains all my 
+Python learning projects.
+
+More projects coming soon! 🚀
